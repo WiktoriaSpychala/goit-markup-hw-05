@@ -481,7 +481,9 @@ figure {
     line-height: 1.85;
     letter-spacing: 0.03em;
     padding-top: 4px;
-    color:#757575
+    padding-bottom: 20px;
+    color:#757575;
+    margin: 0;
 }
 
 .portfolio-images-item {
