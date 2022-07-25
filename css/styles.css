@@ -460,6 +460,7 @@ figure {
     width: 370px;
     height: 110px;
     padding-left: 24px;
+    padding-top: 20px;
     background-color: #FFFFFF;
     position: relative;
     overflow: hidden;
@@ -485,6 +486,7 @@ figure {
 
 .portfolio-images-item {
     transition: box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1);
+    cursor: pointer;
 }
 
 .portfolio-images-item:hover,
